@@ -1,0 +1,19 @@
+.site{background-color:yellow;height:1200px; width:1200px;margin:15px; border-radius:10px;}
+.cabecalho{background-color: black; width:0 auto; height: 170px; color: white; border-radius:10px;}
+.cabecalho img{float:right;margin:10px; border-radius:5px;}
+.cabecalho p{text-align:center; font-size:40pt;}
+.corpo{height:1000px;}
+.corpo p{text-align:justify; margin:15px;}
+.artigos img{color:white;}
+.cabecalho h4{font-size:18pt; margin: 10px;}
+.artigos h2{font-size:30px;margin:30px;}
+.box img{height: 320px; width: 355px; margin: 10px;}
+
+.serviços{background-color:red; font-size:20pt; border-radius:5px;}
+.serviços ul{list-style:none; font-size:15pt;}
+.serviços ul li{display:table-cell;}
+.serviços ul li a{text-decoration:none;margin-left:30px; color:white;}
+.box{margin:15px;}
+.rodape{text-align:center;background-color:black;color:white; width:0 auto; height:50px; border-radius:5px;}
+.rodape p{font-size:20pt;}
+
